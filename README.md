@@ -22,9 +22,10 @@
 ### Notable-ish Repos
 
 - 📘 [Labs of DSP](https://github.com/JDDD-hy/DSP-LAB) – DSP Lab in MATLAB
-- 🧪 [CNNs](https://github.com/JDDD-hy/ResNet_from_0) – NN final project  
+- 🧪 [CNNs](https://github.com/JDDD-hy/ResNet_from_0) – NN final project based on CuPy
 - ⚙️ [Labs of C](https://github.com/JDDD-hy/Y3-C) - Basic assignments 
-- 🚆 [Labs of C++](https://github.com/JDDD-hy/Y3-cpp) - Assignments and final project
+- 🚆 [Labs of C++](https://github.com/JDDD-hy/Y3-cpp) - Assignments and final project  
+- 📜 [Chinese Calligraphy Style Classification](https://github.com/JDDD-hy/Calligraphy-Style-Classification) - CNNs for Chinese Calligraphy Style Classification based on PyTorch  
 
 
 > “Powered by caffeine and deadline panic.” ☕⌛
