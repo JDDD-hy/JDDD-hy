@@ -25,7 +25,7 @@
 - 🧪 [CNNs](https://github.com/JDDD-hy/ResNet_from_0) – NN final project based on CuPy
 - ⚙️ [Labs of C](https://github.com/JDDD-hy/Y3-C) - Basic assignments 
 - 🚆 [Labs of C++](https://github.com/JDDD-hy/Y3-cpp) - Assignments and final project  
-- 📜 [Chinese Calligraphy Style Classification](https://github.com/JDDD-hy/Calligraphy-Style-Classification) - CNNs for Chinese Calligraphy Style Classification based on PyTorch  
-
+- 📜 [Chinese Calligraphy Style Classification](https://github.com/JDDD-hy/Calligraphy-Style-Classification) - CNNs for Chinese Calligraphy Style Classification based on PyTorch
+- 🛒 [Neo4j E-Commerce](https://github.com/JDDD-hy/Neo4j_Ecommerce) - Neo4j E-Commerce Clickstream and Transaction Knowledge Graph for user behavior analysis  
 
 > “Powered by caffeine and deadline panic.” ☕⌛
