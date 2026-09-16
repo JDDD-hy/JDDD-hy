@@ -5,27 +5,46 @@
 
 ### Hi there 👋 I'm JDDD-hy
 
-🎓 SJTU-SPEIT student  
-🐍 Mostly coding in Python  
-📂 Pushing old assignments 
+🎓 SJTU-SPEIT student, currently studying in France
 
+🤖 Interested in AI, Data Science & Data Mining
+
+🐍 Mostly coding in Python, occasionally vibe-coding my way into full-stack
+
+📂 Projects, research experiments, coursework, and occasional chaos
 
 
 ### What am I doing here?
 
-- Writing code that sometimes works 💥  
-- Learning Python (the usual trial & error… mostly error) 😀    
+- Building AI things and figuring out why they don't work 💥  
+- Vibe-coding random ideas until they accidentally become real products 😀
+- Trying not to create one 3000-line component ever again 😂
+- Occasionally remembering that I also have assignments 📑   
 - Uploading stuff to look productive ✊   
 
+### Things I've been working on
 
+* ⚖️ [**CROUS Court**](https://github.com/JDDD-hy/crous-court) — Put your CROUS meal on trial.
+  A community food ranking platform with image recognition, voting, uploads, authentication, and a concerning amount of infrastructure for ranking cafeteria food.
 
-### Notable-ish Repos
+* 🫂 [**Youjian**](https://github.com/JDDD-hy/Youjian) — A lightweight focus space for close friends.
+See each other's focus status in real time, track sessions and streaks, set personal deadlines and shared goals, vote on group goals, unlock achievements, and quietly study together from anywhere.
 
-- 📘 [Labs of DSP](https://github.com/JDDD-hy/DSP-LAB) – DSP Lab in MATLAB
-- 🧪 [CNNs](https://github.com/JDDD-hy/ResNet_from_0) – NN final project based on CuPy
-- ⚙️ [Labs of C](https://github.com/JDDD-hy/Y3-C) - Basic assignments 
-- 🚆 [Labs of C++](https://github.com/JDDD-hy/Y3-cpp) - Assignments and final project  
-- 📜 [Chinese Calligraphy Style Classification](https://github.com/JDDD-hy/Calligraphy-Style-Classification) - CNNs for Chinese Calligraphy Style Classification based on PyTorch
-- 🛒 [Neo4j E-Commerce](https://github.com/JDDD-hy/Neo4j_Ecommerce) - Neo4j E-Commerce Clickstream and Transaction Knowledge Graph for user behavior analysis  
+* 📜 [**Chinese Calligraphy Style Classification**](https://github.com/JDDD-hy/Calligraphy-Style-Classification) — Chinese calligraphy style classification with PyTorch CNNs.
 
-> “Powered by caffeine and deadline panic.” ☕⌛
+* 🛒 [**Neo4j E-Commerce**](https://github.com/JDDD-hy/Neo4j_Ecommerce) — E-commerce clickstream and transaction knowledge graph for user behavior analysis.
+
+* 🧪 [**ResNet from 0**](https://github.com/JDDD-hy/ResNet_from_0) — Neural network final project implemented with CuPy.
+
+* 📘 [**DSP Labs**](https://github.com/JDDD-hy/DSP-LAB) — Digital signal processing labs in MATLAB.
+
+* ⚙️ [**C Labs**](https://github.com/JDDD-hy/Y3-C) / 🚆 [**C++ Labs**](https://github.com/JDDD-hy/Y3-cpp) — Evidence that I did, in fact, attend class.
+
+### Current rabbit holes
+
+`AI` · `Data` · `Web` · `Vibe Coding` 
+
+`and whatever the next assignment requires`
+
+> “It started as a small project.”
+
